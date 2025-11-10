@@ -4,6 +4,11 @@ This project focuses on analyzing restaurant data from Zomato, particularly from
 restaurant distribution, and service availability. Using Python-based data analysis and visualization techniques, the project aims to derive 
 insights that can help restaurant businesses and food delivery platforms make informed, data-driven decisions.
 
+# Data Overview
+
+The dataset consists of over 55,000 records and 17 columns, providing comprehensive information about restaurants listed on Zomato.
+It includes details such as restaurant names, locations, cuisine types, average cost, and customer ratings, along with service availability features like online ordering and table booking.
+
 # Project Overview
 
 The objective of this analysis is to explore and interpret the Zomato restaurant dataset to discover meaningful insights. The workflow involves:
